@@ -25,5 +25,5 @@ Being a Technical Business Analyst exposed me to the software development lifecy
  
 <h1 align="center">📱 Let's connect! 😃</h1>
 <p align="left">
-<a href="https://linkedin.com/in/osama-khan2" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="osama-khan2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/osama-khan2" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="osama-khan2"/></a>
 </p>
