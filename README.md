@@ -13,6 +13,10 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/osama-khan2/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAB2s_W8BoM2of43HTd9ZDaKT1MKiRMpmFa0,1635462600116)/](https://www.linkedin.com/in/osama-khan2/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAB2s_W8BoM2of43HTd9ZDaKT1MKiRMpmFa0,1635462600116)/)
 
+<h1 align="center">About Me</h1>
+
+Being a Technical Business Analyst exposed me to the software development lifecycle and allowed me to dip my feet into development, handling the technical side and the business side. After years of experience I decided to shift my attention and focus towards the technical side and become a software developer. This is when I made the decision to quit my job and deepen my knowledge and skills around coding.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/osama-khan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-khan2" height="30" width="40" /></a>
