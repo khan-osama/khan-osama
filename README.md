@@ -28,7 +28,7 @@ Being a Technical Business Analyst exposed me to the software development lifecy
  
  A full-stack JavaScript web application that recommends art to a user based on the century of art they are interested in. Users can see recommendations, search for an artist and save any art they like!
  
- <a href="https://khan-osama.github.io/ajax-project/">Live Site</a>
+ <span><a href="https://khan-osama.github.io/ajax-project/">Live Site</a></span>
  <a href="https://github.com/khan-osama/ajax-project">Source Code</a>
  
 <h1 align="center">📱 Let's connect! 😃</h1>
