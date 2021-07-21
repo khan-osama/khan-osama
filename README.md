@@ -25,5 +25,5 @@ Being a Technical Business Analyst exposed me to the software development lifecy
  
 <h1 align="center">📱 Let's connect! 😃</h1>
 <p align="left">
-<a href="https://linkedin.com/in/osama-khan2" target="blank"><img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0b…d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="osama-khan2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/osama-khan2" target="blank"><img align="center" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cpath fill='none' d='M0 0h24v24H0z'/%3E%3Cpath d='M6.94 5a2 2 0 1 1-4-.002 2 2 0 0 1 4 .002zM7 8.48H3V21h4V8.48zm6.32 0H9.34V21h3.94v-6.57c0-3.66 4.77-4 4.77 0V21H22v-7.93c0-6.17-7.06-5.94-8.72-2.91l.04-1.68z'/%3E%3C/svg%3E" alt="osama-khan2" height="30" width="40" /></a>
 </p>
