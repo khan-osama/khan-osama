@@ -24,12 +24,11 @@ Being a Technical Business Analyst exposed me to the software development lifecy
 
  <h1 align="center">:computer:Projects!</h1>
  
- <h3>1. Curator :art::art:</h3>
+ <h3>1. Curator :art::art:</h3> <p><a href="https://khan-osama.github.io/ajax-project/">Live Site</a></p> | <a href="https://github.com/khan-osama/ajax-project">Source Code</a>
  
  A full-stack JavaScript web application that recommends art to a user based on the century of art they are interested in. Users can see recommendations, search for an artist and save any art they like!
- 
- <p><a href="https://khan-osama.github.io/ajax-project/">Live Site</a></p>
- <a href="https://github.com/khan-osama/ajax-project">Source Code</a>
+![curatordemo](https://user-images.githubusercontent.com/63980419/137368607-01c19d66-2529-4a2a-bdb8-6ef15deac9fe.gif)
+![curatordemo2](https://user-images.githubusercontent.com/63980419/137368631-94470bad-5149-4ed3-88c1-0d14494a973d.gif)
  
 <h1 align="center">📱 Let's connect! 😃</h1>
 <p align="left">
