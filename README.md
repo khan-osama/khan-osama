@@ -30,7 +30,14 @@ Being a Technical Business Analyst exposed me to the software development lifecy
  
 ![curatordemo](https://user-images.githubusercontent.com/63980419/137368607-01c19d66-2529-4a2a-bdb8-6ef15deac9fe.gif)
 ![curatordemo2](https://user-images.githubusercontent.com/63980419/137368631-94470bad-5149-4ed3-88c1-0d14494a973d.gif)
+
+ <h3>1. Kami :art::art:</h3> <a href="https://github.com/khan-osama/kami-final-project">Source Code</a>
  
+ A full stack JavaScript application for anime lovers who want to get information about all things anime/manga
+ 
+![curatordemo](https://user-images.githubusercontent.com/63980419/137368607-01c19d66-2529-4a2a-bdb8-6ef15deac9fe.gif)
+![curatordemo2](https://user-images.githubusercontent.com/63980419/137368631-94470bad-5149-4ed3-88c1-0d14494a973d.gif)
+
 <h1 align="center">📱 Let's connect! 😃</h1>
 <p align="left">
 <a href="https://linkedin.com/in/osama-khan2" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="osama-khan2"/></a>
