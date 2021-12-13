@@ -35,11 +35,11 @@ Being a Technical Business Analyst exposed me to the software development lifecy
  
  A full stack JavaScript application for anime lovers who want to get information about all things anime/manga
  
-### Landing Page
+### Landing Page (Preview)
 ![1](https://user-images.githubusercontent.com/63980419/145887295-d9698af3-7cbd-4b04-bb34-380f873583d7.png)
 ![2](https://user-images.githubusercontent.com/63980419/145887322-258b29b0-9e5e-4a98-bc0b-f81524ce9568.png)
 
-### Details Page / Related Anime / Leaving a Review / Episode List
+### Details Page / Related Anime / Leaving a Review / Episode List ((Preview)
 ![details1](https://user-images.githubusercontent.com/63980419/145887342-693c6739-77f6-4081-ad7f-41874819e72d.png)
 
 <h1 align="center">📱 Let's connect! 😃</h1>
