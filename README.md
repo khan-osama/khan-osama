@@ -29,11 +29,15 @@ Being a Technical Business Analyst exposed me to the software development lifecy
  A full stack JavaScript application for anime lovers who want to get information about all things anime/manga
  
 ### Landing Page
-![1](https://user-images.githubusercontent.com/63980419/145887295-d9698af3-7cbd-4b04-bb34-380f873583d7.png)
-![2](https://user-images.githubusercontent.com/63980419/145887322-258b29b0-9e5e-4a98-bc0b-f81524ce9568.png)
+![airing](https://user-images.githubusercontent.com/63980419/170355925-9a2ffe64-5a81-4b0d-a8a8-b37f6b7d8d8f.gif)
+![upcoming](https://user-images.githubusercontent.com/63980419/170355968-98281e4e-70db-464c-a3c5-51e8c6ca51df.gif)
+
 
 ### Details Page / Related Anime / Leaving a Review / Episode List
-![details1](https://user-images.githubusercontent.com/63980419/145887342-693c6739-77f6-4081-ad7f-41874819e72d.png)
+![relateda-mobile](https://user-images.githubusercontent.com/63980419/170356094-e4b7ea1d-a7c5-4ce6-b624-10c39b56b822.gif)
+![review-log-in](https://user-images.githubusercontent.com/63980419/170356141-c9f1f1c9-a4ed-448e-8c1b-ec431026b4be.gif)
+![saved-5](https://user-images.githubusercontent.com/63980419/170356233-5953dc24-d102-4041-9a5a-9acc051be2cb.gif)
+
 
  <h3>2. Curator :art::art:</h3> <a href="https://khan-osama.github.io/ajax-project/">Live Site</a> | <a href="https://github.com/khan-osama/ajax-project">Source Code</a>
  
