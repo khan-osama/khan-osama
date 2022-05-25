@@ -31,7 +31,7 @@ Being a Technical Business Analyst exposed me to the software development lifecy
 ![curatordemo](https://user-images.githubusercontent.com/63980419/137368607-01c19d66-2529-4a2a-bdb8-6ef15deac9fe.gif)
 ![curatordemo2](https://user-images.githubusercontent.com/63980419/137368631-94470bad-5149-4ed3-88c1-0d14494a973d.gif)
 
- <h3>2. Kami :tv::izakaya_lantern:</h3> <a href="https://github.com/khan-osama/kami-final-project">Source Code</a>
+ <h3>2. Kami :tv::izakaya_lantern:</h3> <a href="https://kami-anime.herokuapp.com/#home">Live Site</a> | <a href="https://github.com/khan-osama/kami-final-project">Source Code</a>
  
  A full stack JavaScript application for anime lovers who want to get information about all things anime/manga
  
