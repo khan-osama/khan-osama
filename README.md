@@ -27,24 +27,11 @@ Being a Technical Business Analyst exposed me to the software development lifecy
  <h3>1. Kami :tv::izakaya_lantern:</h3> <a href="https://kami-anime.herokuapp.com/#home">Live Site</a> | <a href="https://github.com/khan-osama/kami-final-project">Source Code</a>
  
  A full stack JavaScript application for anime lovers who want to get information about all things anime/manga
- 
-### Landing Page
-![airing](https://user-images.githubusercontent.com/63980419/170355925-9a2ffe64-5a81-4b0d-a8a8-b37f6b7d8d8f.gif)
-![upcoming](https://user-images.githubusercontent.com/63980419/170355968-98281e4e-70db-464c-a3c5-51e8c6ca51df.gif)
-
-
-### Details Page / Related Anime / Leaving a Review / Episode List
-![relateda-mobile](https://user-images.githubusercontent.com/63980419/170356094-e4b7ea1d-a7c5-4ce6-b624-10c39b56b822.gif)
-![review-log-in](https://user-images.githubusercontent.com/63980419/170356141-c9f1f1c9-a4ed-448e-8c1b-ec431026b4be.gif)
-![saved-5](https://user-images.githubusercontent.com/63980419/170356233-5953dc24-d102-4041-9a5a-9acc051be2cb.gif)
-
 
  <h3>2. Curator :art::art:</h3> <a href="https://khan-osama.github.io/ajax-project/">Live Site</a> | <a href="https://github.com/khan-osama/ajax-project">Source Code</a>
  
  A full-stack JavaScript web application that recommends art to a user based on the century of art they are interested in. Users can see recommendations, search for an artist and save any art they like!
  
-![curatordemo](https://user-images.githubusercontent.com/63980419/137368607-01c19d66-2529-4a2a-bdb8-6ef15deac9fe.gif)
-![curatordemo2](https://user-images.githubusercontent.com/63980419/137368631-94470bad-5149-4ed3-88c1-0d14494a973d.gif)
 
 <h1 align="center">📱 Let's connect! 😃</h1>
 <p align="left">
