@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **TypeScript and diving deeper into React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/khan-osama?tab=repositories](https://github.com/khan-osama?tab=repositories)
+- 👨‍💻 All of my projects are available in my [repos](https://github.com/khan-osama?tab=repositories)
 
 - 💬 Ask me about **React, JavaScript and Express**
 
 - 📫 How to reach me **osamaa.khan61@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/osama-khan2/](https://www.linkedin.com/in/osama-khan2/)
+- 📄 Know about my experiences at my [LinkedIn](https://www.linkedin.com/in/osama-khan2/)
 
 <h1 align="center">:sunglasses:About Me:sunglasses:</h1>
 
