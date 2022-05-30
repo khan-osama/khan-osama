@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **osamaa.khan61@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/osama-khan2/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAB2s_W8BoM2of43HTd9ZDaKT1MKiRMpmFa0,1635462600116)/](https://www.linkedin.com/in/osama-khan2/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAB2s_W8BoM2of43HTd9ZDaKT1MKiRMpmFa0,1635462600116)/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/osama-khan2/](https://www.linkedin.com/in/osama-khan2/)
 
 <h1 align="center">:sunglasses:About Me:sunglasses:</h1>
 
