@@ -26,7 +26,7 @@ Being a Technical Business Analyst exposed me to the software development lifecy
 
  <h3>1. Kami :tv::izakaya_lantern:</h3> <a href="https://kami-anime.herokuapp.com/#home">Live Site</a> | <a href="https://github.com/khan-osama/kami-final-project">Source Code</a>
  
- A full stack JavaScript application for anime lovers who want to get information about all things anime/manga
+ A full stack React application for anime lovers who want to get information about all things anime/manga
 
  <h3>2. Curator :art::art:</h3> <a href="https://khan-osama.github.io/Curator/">Live Site</a> | <a href="https://github.com/khan-osama/ajax-project">Source Code</a>
  
